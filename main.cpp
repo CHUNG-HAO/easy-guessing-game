@@ -4,8 +4,8 @@
 
 using namespace std;
 
-#include "player.h"
-#include "Game.h"
+#include "player.cpp"
+#include "Game.cpp"
 
 
 int main() {
