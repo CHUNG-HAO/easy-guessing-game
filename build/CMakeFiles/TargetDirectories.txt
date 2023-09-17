@@ -1,0 +1,5 @@
+/Users/zhonghonghao/easy-guessing-game/build/CMakeFiles/Game.dir
+/Users/zhonghonghao/easy-guessing-game/build/CMakeFiles/Player.dir
+/Users/zhonghonghao/easy-guessing-game/build/CMakeFiles/main.dir
+/Users/zhonghonghao/easy-guessing-game/build/CMakeFiles/edit_cache.dir
+/Users/zhonghonghao/easy-guessing-game/build/CMakeFiles/rebuild_cache.dir
